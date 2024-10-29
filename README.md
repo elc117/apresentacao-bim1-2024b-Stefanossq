@@ -24,7 +24,7 @@ Funcionamento
 
 
 
-### Possíveis Erros ⚠️
+### Possíveis Erros: 
 
 Confundir o parâmetro n, tratando-o como um valor a ser somado aos índices gerados.Resulta em pares começando por "line14" em vez de "line10". Foi o que eu fiz na prova...😓
 
@@ -36,7 +36,7 @@ A confusão em relação ao uso do parâmetro n pode ser atribuída às diferen�
 
 - **Em Haskell (Paradigma Funcional)**: Os parâmetros servem como limites ou critérios, e não são utilizados para manipulação direta de valores. A função é definida para retornar um resultado baseado em condições sem modificar estados externos.
 
-### Conclusão 🎯:
+### Conclusão :
 
 Com funq4, abordamos os seguintes conceitos:
 
