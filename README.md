@@ -30,9 +30,13 @@ A confusão em relação ao uso do parâmetro n pode ser atribuída às diferen�
 
 ## Conclusão 🎯
 
+
+https://github.com/user-attachments/assets/36b29a0a-4f71-4e8b-924e-6b719db929c4
+
+
 Com funq4, abordamos os seguintes conceitos:
 
 - **List Comprehension**
 - **Funções High-Order**: Zip
 - **Where**
-- **Condições**: lógica condicional com base na imparidade.
+- **Condições**: lógica condicional
